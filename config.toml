@@ -1,0 +1,10 @@
+title = "IT-Administrator (IHK)"
+baseURL = "http://itadm.akmnn.de/"
+languageCode = "de-DE"
+theme = "papermod"
+
+## Markup
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
